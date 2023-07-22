@@ -1,7 +1,8 @@
 import React from "react";
 import PortfolioContainer from "./components/PortfolioContainer";
 
-const App = () => <PortfolioContainer />
+const App = () => 
+<PortfolioContainer />
 
 // import logo from './logo.svg';
 // import './App.css';

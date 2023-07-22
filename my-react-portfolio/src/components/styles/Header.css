@@ -1,0 +1,30 @@
+.hero {
+    width: 100%;
+    background-image: url("/Users/miareid/bootcamp/my-react-portfolio/my-react-portfolio/public/assets/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media-min.jpg");
+    background-size: cover;
+    background-position: top;
+}
+
+.hero-text {
+    padding: 200px;
+    font-family: 'Bebas Neue', 'Helvetica', cursive;
+    color: white;
+    font-weight: bold;
+}
+
+.navbar {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.nav-link {
+    color: white !important;
+    }
+
+h1 {
+    font-family: 'Bebas Neue', 'Helvetica' !important;
+    color: #FFFFFF !important;
+}
+
+.h1-text {
+    font-size: 48px !important;
+}

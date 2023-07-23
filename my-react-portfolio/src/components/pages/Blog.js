@@ -1,7 +1,5 @@
 import React from 'react';
 import '../styles/Header.css';
-import frea from '../styles/Fidelity-Real-Estate.png';
-import tso from '../styles/Home-Timeshares-Only.png';
 import stax from '../styles/PLG-Landing-Page.png';
 import movies4u from '../styles/movies4u.png';
 import techBlog from '../styles/tech-blog.png';

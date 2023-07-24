@@ -17,7 +17,7 @@ My portfolio works also showcases the title of each project, so it is clear what
 
 ## Usage
 
-![screenshot of my portfolio](./assets/Screenshot 2023-07-24 at 7.12.18 PM.png)
+<img width="1297" alt="Screenshot 2023-07-24 at 7 12 18 PM" src="https://github.com/miamreid/my-react-portfolio/assets/124822025/5c370be0-a7e1-44e7-9a85-306905644ac1">
 
 Users that visit my portfolio website are able to read my brief "About Me", view my headshot, navigate to various methods of contacting me, and browse my previous projects. The navigation bar links to the different pages of my portfolio. In the footers, users can see and click on different social profile icons, find my email address, and navigate through the page.
 

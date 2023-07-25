@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.668c494d.css",
+    "main.js": "/my-react-portfolio/static/js/main.2946611d.js",
+    "static/media/movies4u.png": "/my-react-portfolio/static/media/movies4u.183ded20fa997d4118a2.png",
+    "static/media/weather-dashboard.png": "/my-react-portfolio/static/media/weather-dashboard.ab74cb153decd8b4b0ac.png",
+    "static/media/PLG-Landing-Page.png": "/my-react-portfolio/static/media/PLG-Landing-Page.8285843ee108e978dd10.png",
+    "static/media/Mia Reid - Marketing Manager, 2023.png": "/my-react-portfolio/static/media/Mia Reid - Marketing Manager, 2023.37ecfb0e90643995c3e1.png",
+    "static/media/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media-min.jpg": "/my-react-portfolio/static/media/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media-min.63381021d5bb738fe249.jpg",
+    "static/media/tech-blog.png": "/my-react-portfolio/static/media/tech-blog.7832b4dfe9f5c3a8800d.png",
+    "static/media/Moody.png": "/my-react-portfolio/static/media/Moody.469891101a1bbbff4501.png",
+    "static/media/Mia Reid - Marketing Manager, 2023.pdf": "/my-react-portfolio/static/media/Mia Reid - Marketing Manager, 2023.481710e037974a4a7c5f.pdf",
+    "static/media/mia-reid-headshot-2.jpg": "/my-react-portfolio/static/media/mia-reid-headshot-2.f611eb8df8ee288ed32e.jpg",
+    "static/media/my-instagram.png": "/my-react-portfolio/static/media/my-instagram.fab9634ae7055457db49.png",
+    "static/media/spotify.png": "/my-react-portfolio/static/media/spotify.8e976bfe5d6e63f2ca85.png",
+    "static/media/github.png": "/my-react-portfolio/static/media/github.d42817696e1ae5e04288.png",
+    "static/media/telegram.png": "/my-react-portfolio/static/media/telegram.bb38260afda4e3219587.png",
+    "static/media/my-linkedin.png": "/my-react-portfolio/static/media/my-linkedin.30fb0d34e20dcb63197c.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.668c494d.css.map": "/my-react-portfolio/static/css/main.668c494d.css.map",
+    "main.2946611d.js.map": "/my-react-portfolio/static/js/main.2946611d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.668c494d.css",
+    "static/js/main.2946611d.js"
+  ]
+}
